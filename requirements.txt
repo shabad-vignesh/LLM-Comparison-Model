@@ -4,3 +4,5 @@ python-dotenv
 fpdf
 huggingface-hub
 google-generativeai
+openai
+
